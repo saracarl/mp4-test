@@ -22,7 +22,7 @@
       {
         "id": "https://saracarl.github.io/mp4-test/mp4/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 4170.0,
+        "duration": 570.0,
         "annotations": [
           
           {
@@ -44,7 +44,7 @@
                   "id": "https://archive.org/download/Camille1921/Camille%201921.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 4170.0
+                    "duration": 570.0
                 },
                 "target": "https://saracarl.github.io/mp4-test/mp4/canvas-1/canvas"
               }

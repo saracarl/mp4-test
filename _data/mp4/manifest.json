@@ -23,14 +23,6 @@
         "id": "https://saracarl.github.io/mp4-test/mp4/canvas-1/canvas",
         "type": "Canvas",
         "duration": 143.5,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://saracarl.github.io/mp4-test/mp4/canvas-1/canvas/premiere.json",
-            "label": "premiere"
-          }
-        ],
         "items": [
           {
             "id": "https://saracarl.github.io/mp4-test/mp4/canvas-1/paintings",
